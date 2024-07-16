@@ -18,7 +18,8 @@ Batch processing & stream processing
 Structured, semi structured, & unstructured data
 
 ### Databricks File System (DBFS)
-Distributed file system 
-Preinstalled in Databricks clusters 
-Abstraction layer 
-data persisted to the underlaying cloud storage
+Distributed file system, 
+Preinstalled in Databricks clusters ,
+Abstraction layer, 
+data persisted to the underlaying cloud storage,
+![image](https://github.com/user-attachments/assets/56d4d955-31aa-4225-8977-55119ec90239)
